@@ -94,3 +94,11 @@ The dashboard visualizes the distribution of Movies and TV Shows released betwee
 ## Conclusion 
 
 This project demonstrates how Python and Power BI can be combined to transform raw Netflix data into meaningful insights through interactive visualizations. It showcases practical skills in data preparation, modeling, visualization, and storytelling, making it a strong portfolio project for aspiring Data Analysts and Business Intelligence professionals. 
+
+
+
+https://github.com/user-attachments/assets/e68e9847-cff6-492a-834a-f5c9b7568c55
+
+
+
+
